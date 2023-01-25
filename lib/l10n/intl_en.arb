@@ -1,0 +1,18 @@
+{
+    "aplication_name": "Over Money Manager",
+    "auth_title": "Authorization",
+    "log_in": "Log In",
+    "registr": "Registr",
+    "continue_txt": "Сontinue",
+    "confirm_txt": "Сonfirm",
+    "input_name": "Name:",
+    
+    "confirm_title": "SMS sent",
+    "confirm_form_title": "Verify phone number",
+    "exeption_title": "An error has occurred",
+    "not_found_account": "No account found with this phone number!!!",
+    "has_account_error": "This account already exists",
+    
+    "google_button": "Log In with Googlululu"
+    
+}

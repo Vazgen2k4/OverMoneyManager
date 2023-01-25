@@ -1,0 +1,18 @@
+{
+    "aplication_name": "Over Money Manager",
+    "auth_title": "Авторизация",
+    "log_in": "Вход",
+    "registr": "Регистрация",
+    "continue_txt": "Продолжить",
+    "confirm_txt": "Подтвердить",
+    "input_name": "Имя:",
+    
+    "confirm_title": "SMS Отправленно",
+    "confirm_form_title": "Подтвердите номер телефона",
+    "exeption_title": "Произошла ошибка",
+    "not_found_account": "Учётная запись с таким номером телефона не найдена!!!",
+    "has_account_error": "Такой аккаунт уже существует",
+    
+    "google_button": "Типо вход через гулюлю"
+    
+}

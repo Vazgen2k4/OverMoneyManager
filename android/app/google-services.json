@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258563425752",
+    "project_id": "over-money-manager",
+    "storage_bucket": "over-money-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258563425752:android:451744bcaef37daa841ead",
+        "android_client_info": {
+          "package_name": "com.example.over_money_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258563425752-eq54cs8g76lskigioiapbs9e8rm08is1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jLyLqe836U26JNuZ1rKNcihmHr0z7wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258563425752-eq54cs8g76lskigioiapbs9e8rm08is1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
